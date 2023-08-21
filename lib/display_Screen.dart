@@ -114,7 +114,7 @@ class DisplayScreen extends StatelessWidget {
               Size(double.infinity, 50.0),
             ),
           ),
-          child: Text('Share File', style: TextStyle(fontSize: 19)),
+          child: Text('Share File', style: TextStyle(fontSize: 18)),
         ),
       ),
     );
