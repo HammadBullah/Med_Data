@@ -212,7 +212,7 @@ class _InputScreenState extends State<InputScreen> {
                       ),
                       validator: (value) {
                         if (value == null || value.isEmpty) {
-                          return 'Please enter a valid Blood Pressure';
+                          return 'Please enter valid Blood Pressure';
                         }
                         return null;
                       },
